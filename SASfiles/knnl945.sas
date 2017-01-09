@@ -1,0 +1,43 @@
+*KNNL945.sas, two-way analysis of covariance 
+   using data from Problem 25.15;
+options nocenter;
+data cash; 
+	infile 'H:\Stat512\Datasets\CH25PR15.DAT';
+   	input offer age gender rep sales;
+*Look at the model without covariate;
+data cashplot; set cash;
+  if age=1 and gender=1 then factor = '1_youngmale';
+  if age=2 and gender=1 then factor = '2_midmale';
+  if age=3 and gender=1 then factor = '3_eldmale';
+  if age=1 and gender=2 then factor = '4_youngfemale';
+  if age=2 and gender=2 then factor = '5_midfemale';
+  if age=3 and gender=2 then factor = '6_eldfemale';
+symbol1 v=circle h=2;
+title1 'Plot of Offers against Factor Combinations w/o Covariate'; 
+proc gplot data=cashplot; 
+  plot offer*factor;
+run;
+proc glm data=cash;
+  class age gender;
+  model offer = age|gender;
+  means age gender /tukey;
+run;
+
+*Now consider the model with covariate;
+symbol1 v=A h=1 c=black;
+symbol2 v=B h=1 c=black;
+symbol3 v=C h=1 c=black;
+symbol4 v=D h=1 c=black;
+symbol5 v=E h=1 c=black;
+symbol6 v=F h=1 c=black;
+title 'Plot of Offers vs Sales by Factor';
+proc gplot data=cashplot;
+  plot offer*sales=factor;
+run;
+
+proc glm data=cash;
+  class age gender;
+  model offer=sales age|gender;
+  lsmeans age gender /tdiff pdiff cl adjust=tukey;
+run;
+quit;

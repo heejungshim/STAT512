@@ -1,0 +1,46 @@
+*KNNL833.sas, two-way anova using data in Table 19.7;
+title1 'Bread Sales';
+options nocenter;
+data bread; 
+	infile 'h:\Stat512\Datasets\CH19TA07.DAT';
+	input sales height width;
+proc print data=bread;
+run;
+
+proc glm data=bread;
+   class height width;
+   model sales=height width height*width;
+   means height width height*width;
+run;
+* Just for the plot;
+data bread; 
+	set bread; 
+   	if height eq 1 and width eq 1 then hw='1_BR';
+   	if height eq 1 and width eq 2 then hw='2_BW';
+   	if height eq 2 and width eq 1 then hw='3_MR';
+   	if height eq 2 and width eq 2 then hw='4_MW';
+   	if height eq 3 and width eq 1 then hw='5_TR';
+   	if height eq 3 and width eq 2 then hw='6_TW';
+title2 'Sales vs. treatment';
+symbol1 v=circle i=none;
+proc gplot data=bread;
+   plot sales*hw;
+run;
+
+proc means data=bread; 
+   var sales;
+   by height width;
+   output out=avbread mean=avsales;
+proc print data=avbread; 
+run;
+
+*Generate an interaction plot;
+title2 'Interaction Plot';
+symbol1 v=square i=join c=black;
+symbol2 v=diamond i=join c=black;
+symbol3 v=circle i=join c=black;
+proc gplot data=avbread;
+   plot avsales*height=width;
+   plot avsales*width=height;
+run;
+quit;
