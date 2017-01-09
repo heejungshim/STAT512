@@ -1,7 +1,11 @@
 # STAT512: Applied Regression Analysis
 * Dr. Heejung Shim
 * Office: MATH 210 
-* Office Hours: Wed 1-2pm and Thur noon-1pm
+* Email: hjshim_at_purdue.edu
+* TA: Peiyi Zhang (zhan2763_at_purdue.edu) 
+* Office Hours:
+  Heejung Shim (Wed 1-2pm and Thur noon-1pm in MATH 210)
+  Peiyi Zhang (TBA) 
 
 ## Announcements
 
