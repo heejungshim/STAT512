@@ -1,15 +1,3 @@
-*The following linesize (ls) and pagesize (ps) options MAY work
-  well if you have your print setup (click file, print setup)
-  with 0.5 in margins and portrait selected on page setup and
-  and SAS Monospace, Roman, size 8 selected on font.  The
-  print setup display will tell you the ls and ps for the
-  selections you have chosen.  Some printers may be a little
-  different and you may need to play with these settings.  ;
-
-options ls=105 ps=60 nocenter;
-goptions device=win target=winprtm rotate=landscape ftext=swiss
-   hsize=7.0in vsize=5.0in htext=3 htitle=6 hpos=80 vpos=80
-   horigin=0.5in vorigin=0.5in;
 
 *Read in the data using the cards statement.  The @@ allows more
    than one case per line.  The lone . represents a missing value
