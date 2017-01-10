@@ -12,7 +12,7 @@
 ## Course Information
 * [blackboard](https://mycourses.purdue.edu/) 
 * [Piazza webpage](https://piazza.com/purdue/spring2017/stat512/home)
-* Syllabus
+* [Syllabus](https://github.com/heejungshim/STAT512/blob/master/etc/Stat512Spring17Syllabus.pdf)
 * [Tentative Schedule](https://github.com/heejungshim/STAT512/blob/master/etc/Stat512Spring17Schedule.pdf)
 
 ## Homework and Exam Material
