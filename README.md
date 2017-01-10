@@ -27,3 +27,5 @@
 
 ## [Data sets](https://github.com/heejungshim/STAT512/tree/master/dataset)
 
+## Useful links 
+* [Information on how to order and access the eBook](http://www.stat.purdue.edu/~wsharaba/stat512/eBookstore.pdf)
