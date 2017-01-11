@@ -8,6 +8,7 @@
   Peiyi Zhang (TBA) 
 
 ## Announcements
+* [Jan 11] Division number: 4 (3pm to 4:15pm) and 5 (4:30pm to 5:45pm)
 
 ## Course Information
 * [blackboard](https://mycourses.purdue.edu/) 
