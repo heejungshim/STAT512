@@ -8,8 +8,9 @@
   Peiyi Zhang (TBA) 
 
 ## Announcements
+* [Jan 12] Homework 1 is due Monday, January 23 at 11:59 pm.
 * [Jan 11] Midterm Exam is scheduled for Monday March 6th 8:00 pm in MATH 175.
-* [Jan 11] Division number: 4 (3pm to 4:15pm) and 5 (4:30pm to 5:45pm)
+* [Jan 11] Division number: 4 (3pm to 4:15pm) and 5 (4:30pm to 5:45pm).
 
 ## Course Information
 * [blackboard](https://mycourses.purdue.edu/) 
@@ -20,7 +21,7 @@
 ## Homework and Exam Material
 
 ## Homework Solutions and Lecture Notes: [blackboard](https://mycourses.purdue.edu/) 
-
+* [Homework 1](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob1.pdf)  
 ## SAS
 * [SAS files](https://github.com/heejungshim/STAT512/tree/master/SASfiles)
 * SAS help sessions are every Wednesday from 6:30-8:30 pm in BRNG B286. 
