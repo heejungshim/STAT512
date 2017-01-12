@@ -21,7 +21,8 @@
 ## Homework and Exam Material
 
 ## Homework Solutions and Lecture Notes: [blackboard](https://mycourses.purdue.edu/) 
-* [Homework 1](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob1.pdf)  
+* [Homework 1](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob1.pdf) 
+
 ## SAS
 * [SAS files](https://github.com/heejungshim/STAT512/tree/master/SASfiles)
 * SAS help sessions are every Wednesday from 6:30-8:30 pm in BRNG B286. 
