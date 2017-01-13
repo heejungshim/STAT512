@@ -19,9 +19,9 @@
 * [Tentative Schedule](https://github.com/heejungshim/STAT512/blob/master/etc/Stat512Spring17Schedule.pdf)
 
 ## Homework and Exam Material
+* [Homework 1](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob1.pdf) 
 
 ## Homework Solutions and Lecture Notes: [blackboard](https://mycourses.purdue.edu/) 
-* [Homework 1](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob1.pdf) 
 
 ## SAS
 * [SAS files](https://github.com/heejungshim/STAT512/tree/master/SASfiles)
