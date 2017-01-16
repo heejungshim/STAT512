@@ -4,8 +4,8 @@
 * Email: hjshim_at_purdue.edu
 * TA: Peiyi Zhang (zhan2763_at_purdue.edu) 
 * Office Hours:
-  Heejung Shim (Wed 1-2pm and Thur noon-1pm in MATH 210)
-  Peiyi Zhang (TBA) 
+  1. Heejung Shim (Wed 1-2pm and Thur noon-1pm in MATH 210)
+  2. Peiyi Zhang (Tue 1:50-2:50pm and 10-11am on Wed in MATH 539)
 
 ## Announcements
 * [Jan 12] Homework 1 is due Monday, January 23 at 11:59 pm.
