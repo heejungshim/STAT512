@@ -8,7 +8,10 @@
   2. Peiyi Zhang (Tue 1:50-2:50pm and 10-11am on Wed in MATH 539)
 
 ## Announcements
-* [Jan 12] Homework 1 is due Monday, January 23 at 11:59 pm.
+* [Jan 16] [Checklist](https://github.com/heejungshim/STAT512/blob/master/etc/Checklist.pdf) is due Thursday, Jan 19th. I'll collect it during the lecture. If you miss the lecture on Thursday, please put it in my mail box in MATH 533 by Thursday 5pm. 
+* [Jan 16] [Homework 2](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob2.pdf) is due Monday, Feb 6 at 11:59 pm.
+* [Jan 16] TA's office hours are announced. 
+* [Jan 12] [Homework 1](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob1.pdf) is due Monday, January 23 at 11:59 pm.
 * [Jan 11] Midterm Exam is scheduled for Monday March 6th 8:00 pm in MATH 175.
 * [Jan 11] Division number: 4 (3pm to 4:15pm) and 5 (4:30pm to 5:45pm).
 
@@ -20,6 +23,7 @@
 
 ## Homework and Exam Material
 * [Homework 1](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob1.pdf) 
+* [Homework 2](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob2.pdf)
 
 ## Homework Solutions and Lecture Notes: [blackboard](https://mycourses.purdue.edu/) 
 
