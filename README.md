@@ -5,7 +5,7 @@
 * TA: Peiyi Zhang (zhan2763_at_purdue.edu) 
 * Office Hours:
   1. Heejung Shim (Wed 1-2pm and Thur noon-1pm in MATH 210)
-  2. Peiyi Zhang (Tue 1:50-2:50pm and 10-11am on Wed in MATH 539)
+  2. Peiyi Zhang (Tue 1:50-2:50pm and Wed 10-11am in MATH 539)
 
 ## Announcements
 * [Jan 16] [Checklist](https://github.com/heejungshim/STAT512/blob/master/etc/Checklist.pdf) is due Thursday, Jan 19th. I'll collect it during the lecture. If you miss the lecture on Thursday, please put it in my mail box in MATH 533 by Thursday 5pm. 
