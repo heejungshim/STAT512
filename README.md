@@ -8,6 +8,7 @@
   2. Peiyi Zhang (Tue 1:50-2:50pm and Wed 10-11am in MATH 539)
 
 ## Announcements
+* [Mar 15] [Homework 5](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob5.pdf) is due Monday, March 27 at 11:59 pm.
 * [Jan 30] No class on March 9th Thur.
 * [Jan 30] [Homework 4](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob4.pdf) is due **Friday, March 3 at 11:59 pm**.
 * [Jan 30] [Homework 3](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob3.pdf) is due Monday, Feb 20 at 11:59 pm.
@@ -29,6 +30,7 @@
 * [Homework 2](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob2.pdf)
 * [Homework 3](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob3.pdf) 
 * [Homework 4](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob4.pdf)
+* [Homework 5](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob5.pdf)
 
 ## Homework Solutions and Lecture Notes: [blackboard](https://mycourses.purdue.edu/) 
 
