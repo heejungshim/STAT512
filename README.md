@@ -54,3 +54,6 @@
 
 ## Useful links 
 * [Information on how to order and access the eBook](http://www.stat.purdue.edu/~wsharaba/stat512/eBookstore.pdf)
+* [Data: Australian Data and Story Library](http://www.statsci.org/data/multiple.html)
+* [Data: Cleveland Clinic](http://www.lerner.ccf.org/qhs/datasets/datasets.php)
+
