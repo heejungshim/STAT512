@@ -8,6 +8,7 @@
   2. Peiyi Zhang (Tue 1:50-2:50pm and Wed 10-11am in MATH 539)
 
 ## Announcements
+* [Mar 15] Final Exam is scheduled for Thursday May 4th 1:00 pm in ARMS 1010.
 * [Mar 15] [Homework 7](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob7.pdf) is due Monday, April 24 at 11:59 pm.
 * [Mar 15] [Homework 6](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob6.pdf) is due Monday, April 10 at 11:59 pm.
 * [Mar 15] [Homework 5](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob5.pdf) is due Monday, March 27 at 11:59 pm.
