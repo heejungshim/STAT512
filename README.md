@@ -28,6 +28,10 @@
 * [Syllabus](https://github.com/heejungshim/STAT512/blob/master/etc/Stat512Spring17Syllabus.pdf)
 * [Tentative Schedule](https://github.com/heejungshim/STAT512/blob/master/etc/Stat512Spring17Schedule.pdf)
 
+## Final Project
+* [Instructions and questions](https://github.com/heejungshim/STAT512/blob/master/etc/stat512spring17finalproject.pdf)
+* [Peer evaluation form](https://github.com/heejungshim/STAT512/blob/master/etc/PeerEvalform.pdf)
+
 ## Homework and Exam Material
 * [Homework 1](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob1.pdf) 
 * [Homework 2](https://github.com/heejungshim/STAT512/blob/master/homework/stat512spring17prob2.pdf)
